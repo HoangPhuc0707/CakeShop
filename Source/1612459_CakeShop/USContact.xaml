@@ -27,9 +27,9 @@
                             <Label  Content="CakeShop APP - PROJECT 3"          Height="50" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="#FF484848" FontWeight="Bold" VerticalContentAlignment="Bottom" />
                             <Label  Content="Version 1.0"                       Height="50" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="#FF484848" />
                             <Label  Content="Windows Programming - 18__31"      Height="50" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="#FF484848" FontWeight="Bold" VerticalContentAlignment="Bottom" />
-                            <Label  Content="VNUHCM - University Of Science"    Height="50" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="#FF484848" />
+                            <Label  Content="HUTECH - HCM City University of Technology"    Height="50" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="#FF484848" />
                             <Label  Content="Contact Support"                   Height="50" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="#FF484848" FontWeight="Bold" VerticalContentAlignment="Bottom" />
-                            <Label  Content="1612459@student.hcmus.edu.vn"      Height="35" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="#FF1A73E8" />
+                            <Label  Content="hoangphuc070702@gmail.com"      Height="35" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="#FF1A73E8" />
                             <Label  Content="zjackanderson@gmail.com"           Height="50" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="#FF1A73E8" />
                         </StackPanel>
                     </DockPanel>
@@ -40,7 +40,7 @@
                                     <ImageBrush ImageSource="Assets/N_Logo.jpg" RenderOptions.BitmapScalingMode="HighQuality" Stretch="UniformToFill"/>
                                 </Border.Background>
                             </Border>
-                            <Label Content="1612459 - Cao Kim Nhật" FontSize="30" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Margin="0,10,0,0" />
+                            <Label Content="Nguyễn Hoàng Phúc" FontSize="30" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Margin="0,10,0,0" />
                         </StackPanel>
                     </Grid>
                 </Grid>
