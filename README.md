@@ -1,12 +1,11 @@
-# PROJECT 3: CAKESHOP APP
+# PROJECT: CAKESHOP APP
 
-## LỚP LẬP TRÌNH WINDOWS 18_31
+## LỚP LẬP TRÌNH Winform
 
 ### THÔNG TIN NGƯỜI LÀM 
 
 - MSSV: **1612459** 
-- Họ và tên: **CAO KIM NHẬT**
-- Email: **1612459@student.hcmus.edu.vn** hoặc **zjackanderson@gmail.com**
+- Họ và tên: **Nguyễn Hoàng Phúc**
 
 #### CÁC CHỨC NĂNG ĐÃ LÀM ĐƯỢC
 
@@ -15,5 +14,4 @@
 - Create Order Screen
 - Statistic
 
-#### Link video Demo YouTube: [DEMO][https://youtu.be/bkDtI4JhDuw]
 
